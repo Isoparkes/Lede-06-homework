@@ -2,8 +2,6 @@
 
 > Two tutorials completed as part of the **Lede Program**, class of 2026.
 
----
-
 ## 📝 Notebooks
 
 ### 01 — Animals
